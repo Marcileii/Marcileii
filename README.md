@@ -12,6 +12,7 @@ Estou no 3° semestre em análise e desenvolvimento de sistemas, profissional de
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/950/950018.png">
       
           
   
@@ -21,6 +22,7 @@ Estou no 3° semestre em análise e desenvolvimento de sistemas, profissional de
   <a href="https://www.instagram.com/marcileii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcilei-brand%C3%A3o-a8650b22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcileibrandaoo922@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   
   
   ![Snake animation](https://github.com/Marcileii/Marcileii/blob/output/github-contribution-grid-snake.svg)
