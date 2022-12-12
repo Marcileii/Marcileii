@@ -4,8 +4,8 @@
 Estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado, aplicado, sempre disposto a aprender não importa qual a dificuldade, desistir nunca será um opção !</p>
 <div align="center">
   <a href="https://github.com/Marcileii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcileii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcileii&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcileii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcileii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
