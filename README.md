@@ -1,3 +1,5 @@
+Olá me chamo Marcilei, tenho 20 anos, sou apaixonado em programação, atualmente tenho meus estudos focados em MYSQL, HTML5 e CSS.
+Estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado, aplicado, sempre disposto a aprender não importa qual a dificuldades, desistir nunca será um opção !
 <div align="center">
   <a href="https://github.com/Marcileii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcileii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
