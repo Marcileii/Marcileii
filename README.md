@@ -1,7 +1,16 @@
 <h1>Olá, me chamo Marcilei!</h1>
 
-<p> Tenho 20 anos, sou apaixonado em programação, atualmente tenho meus estudos focados em MySQL, HTML5 e CSS.
-Estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado, aplicado, sempre disposto a aprender não importa qual a dificuldade, desistir nunca será uma opção!</p>
+<p>Olá me chamo Marcilei, tenho 20 anos, sou apaixonado em programação, atualmente tenho meus estudos focados em linguagens Front-end, estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado e aplicado, facilidade de trabalho em equipe, sempre atrás de novos conhecimentos, não importa qual a dificuldade desistir nunca será uma opção.
+
+Conhecimentos e Qualificações 
+ 
+● Excel, Word e PowerPoint básico. 
+● Conhecimento em MySQL (Comandos DML, SQL, DQL). 
+● HTML5 e CSS (Intermediário) 
+● Fundamentos do Marketing (Palavras chaves, redes de pesquisas etc.). 
+● Gestão de Tráfego (Facebook Ads, Instagram Ads) 
+● Marketing Cloud Básico (Criação de listas, extensões, e-mails.) 
+● Logicas de Programação.</p>
 <div align="center">
   <a href="https://github.com/Marcileii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcileii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
