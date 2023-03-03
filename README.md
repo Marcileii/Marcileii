@@ -1,15 +1,16 @@
 <h1>Olá, me chamo Marcilei!</h1>
 
-<p>Olá me chamo Marcilei, tenho 20 anos, sou apaixonado em programação, atualmente tenho meus estudos focados em linguagens Front-end, estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado e aplicado, facilidade de trabalho em equipe, sempre atrás de novos conhecimentos, não importa qual a dificuldade desistir nunca será uma opção.
+<p>Olá me chamo Marcilei, tenho 20 anos, sou apaixonado por tecnologia, atualmente tenho meus estudos focados em marketing cloud, estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado e aplicado, facilidade de trabalho em equipe, sempre atrás de novos conhecimentos, não importa qual a dificuldade desistir nunca será uma opção.
 
 Conhecimentos e Qualificações 
  
-● Excel, Word e PowerPoint básico. 
+● Marketing Cloud (E-mail Studio)
 ● Conhecimento em MySQL (Comandos DML, SQL, DQL). 
-● HTML5 e CSS (Intermediário) 
+● Modelagem de dados.
+● HTML5 e CSS3 (Intermediário) 
+● Pacote Office (Básico)
 ● Fundamentos do Marketing (Palavras chaves, redes de pesquisas etc.). 
 ● Gestão de Tráfego (Facebook Ads, Instagram Ads) 
-● Marketing Cloud Básico (Criação de listas, extensões, e-mails.) 
 ● Logicas de Programação.</p>
 <div align="center">
   <a href="https://github.com/Marcileii">
