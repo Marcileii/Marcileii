@@ -1,17 +1,19 @@
 <h1>Olá, me chamo Marcilei!</h1>
 
-<p>Olá me chamo Marcilei, tenho 20 anos, sou apaixonado por tecnologia, atualmente tenho meus estudos focados em marketing cloud, estou no 3° semestre em análise e desenvolvimento de sistemas, profissional dedicado e aplicado, facilidade de trabalho em equipe, sempre atrás de novos conhecimentos, não importa qual a dificuldade desistir nunca será uma opção.
+<p>Atuação há 4+ anos no ecossistema Martech, com foco em desenvolvimento e sustentação de soluções no Salesforce Marketing Cloud.
+<br>
+Experiência como ponto focal técnico da operação, evoluindo para uma visão estratégica orientada a resultados de negócio.
+<br>
 
-Conhecimentos e Qualificações 
+Principais competências:
  
-● Marketing Cloud (E-mail Studio)
-● Conhecimento em MySQL (Comandos DML, SQL, DQL). 
-● Modelagem de dados.
-● HTML5 e CSS3 (Intermediário) 
-● Pacote Office (Básico)
-● Fundamentos do Marketing (Palavras chaves, redes de pesquisas etc.). 
-● Gestão de Tráfego (Facebook Ads, Instagram Ads) 
-● Logicas de Programação.</p>
+● Desenvolvimento de comunicações personalizadas com AMPscript, HTML CSS.
+● Desenvolvimento de Cloud Pages personalizadas com Java Script.. 
+● Criação de jornadas e automações complexas (Journey Builder & Automation Studio).
+● Modelagem de dados, segmentações e queries em SQL.
+● Construção de dashboards e análises no Looker Studio.
+● Condução de sprints e alinhamento com times multidisciplinares. 
+● Monitoramento de campanhas, relatórios e fechamentos mensais.</p>
 <div align="center">
   <a href="https://github.com/Marcileii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcileii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
